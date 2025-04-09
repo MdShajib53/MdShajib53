@@ -1,7 +1,7 @@
 ![logo](https://github.com/MdShajib53/MdShajib53/blob/main/GitHub%20Repository%20Profile.png)
 <h1 align="center">Hi There👋, I'm Md Shajib.</h1>
 <h3 align="center">I'm Interested about Explore Technology.</h3>
-Currently I studies in CSE at MBSTU. I like Problem Solving and try to Explore about Technology. I’m also highly interested about Software Engineering & Web Development.
+Currently I studies in CSE at MBSTU. I like Problem Solving and try to Explore about Technology. I have recently developed a strong interest in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). I aspire to build a career in AI and ML. Beyond my passion for technology, I have a deep enthusiasm for teaching and mentoring.
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshajib53&label=Profile%20views&color=0e75b6&style=flat" alt="mdshajib53" /> </p>
