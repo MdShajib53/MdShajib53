@@ -1,4 +1,4 @@
-![logo](https://github.com/MdShajib53/MdShajib53/blob/main/GitHubCovers.png)
+![logo](https://github.com/MdShajib53/MdShajib53/blob/main/GitHubCover.png)
 <h1 align="center">Hi There👋, I'm Md Shajib.</h1>
 <h3 align="center">I'm Interested about Explore Technology.</h3>
 Currently I studies in CSE at MBSTU. I like Problem Solving and try to Explore about Technology. I have recently developed a strong interest in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). I aspire to build a career in AI and ML. Beyond my passion for technology, I have a deep enthusiasm for teaching and mentoring.
